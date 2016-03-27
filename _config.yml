@@ -1,7 +1,7 @@
 name: whitedoor
 favicon: null
-layout_spectrum: 0.97435
-typography_spectrum: 0.54007
+layout_spectrum: 0.66061
+typography_spectrum: 0.06779
 title: Recent Events @ White Door
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#070707'
-    - '#e5e5e5'
-    - '#3c3c3c'
-    - '#646464'
-    - '#a5a5a5'
-  brandStrength: 0.6875
-  lightness: 0.3125
-  saturation: 0.3125
-  rhythmicContrast: 0.4529909563716501
+    - '#000000'
+    - '#b1adae'
+    - '#604d3c'
+    - '#e9d2cc'
+    - '#6c7a85'
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
