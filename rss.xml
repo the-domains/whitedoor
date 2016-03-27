@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[whitedoor]]></title>
+        <description><![CDATA[whitedoor]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Mar 2016 03:22:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fresh Start to the Year]]></title>
+            <description><![CDATA[<article><h1>Fresh Start to the Year</h1><p>What better way to start the year than a out door event hosted by Lifestream to launch their new brand and packaging. </p></article>]]></description>
+            <link>undefinedfresh-start-to-the-year/index.html</link>
+            <guid isPermaLink="false">49b0a18a-4357-4ce8-87dd-24a053440f13</guid>
+            <pubDate>Sun, 27 Mar 2016 03:20:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
