@@ -1,7 +1,7 @@
 name: whitedoor
 favicon: null
-layout_spectrum: 0.66061
-typography_spectrum: 0.06779
+layout_spectrum: 0.99904
+typography_spectrum: 0.51521
 title: Recent Events @ White Door
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#6c7a85'
   brandStrength: 0.1875
   lightness: 0.375
-  saturation: 0.25
+  saturation: 0.75
   rhythmicContrast: 0.5
 purpose: []
